@@ -109,3 +109,52 @@ button {
 .text {
     max-width: 200px;
 }
+
+.grey {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+
+.testimonial {
+    max-width: 900px;
+    padding: 80px 0px;
+    margin: auto;
+}
+
+.quote-text {
+    font-size: 36px;
+}
+
+.quote-attrib{
+    font-size: 28px;
+    text-align: right;
+}
+
+.call-to-action {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    max-width: 900px;
+    margin: 64px auto;
+    font-size: 30px;
+    padding: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.encourage-2 {
+    font-size: 26px;    
+}
+
+.coa-left {
+    flex-shrink: 1;
+}
+
+.begin {
+    border: 2px solid #E5E7EB;
+    font-weight: bold;
+    font-size: 26px;
+    white-space: nowrap;
+    height: 3em;
+}
